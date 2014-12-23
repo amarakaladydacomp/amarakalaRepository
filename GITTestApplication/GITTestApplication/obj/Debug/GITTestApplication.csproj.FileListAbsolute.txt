@@ -1,0 +1,6 @@
+C:\GITTRAINING\amarakalaRepository\GITTestApplication\GITTestApplication\bin\Debug\GITTestApplication.exe.config
+C:\GITTRAINING\amarakalaRepository\GITTestApplication\GITTestApplication\bin\Debug\GITTestApplication.exe
+C:\GITTRAINING\amarakalaRepository\GITTestApplication\GITTestApplication\bin\Debug\GITTestApplication.pdb
+C:\GITTRAINING\amarakalaRepository\GITTestApplication\GITTestApplication\obj\Debug\GITTestApplication.csprojResolveAssemblyReference.cache
+C:\GITTRAINING\amarakalaRepository\GITTestApplication\GITTestApplication\obj\Debug\GITTestApplication.exe
+C:\GITTRAINING\amarakalaRepository\GITTestApplication\GITTestApplication\obj\Debug\GITTestApplication.pdb

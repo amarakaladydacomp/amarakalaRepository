@@ -10,6 +10,7 @@ namespace GitTest02
     {
         static void Main(string[] args)
         {
+            //Branch for Git
             Console.ReadLine();
         }
     }

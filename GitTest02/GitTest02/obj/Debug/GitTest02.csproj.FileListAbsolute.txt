@@ -1,0 +1,6 @@
+C:\GITTRAINING\amarakalaRepository\GitTest02\GitTest02\bin\Debug\GitTest02.exe.config
+C:\GITTRAINING\amarakalaRepository\GitTest02\GitTest02\bin\Debug\GitTest02.exe
+C:\GITTRAINING\amarakalaRepository\GitTest02\GitTest02\bin\Debug\GitTest02.pdb
+C:\GITTRAINING\amarakalaRepository\GitTest02\GitTest02\obj\Debug\GitTest02.csprojResolveAssemblyReference.cache
+C:\GITTRAINING\amarakalaRepository\GitTest02\GitTest02\obj\Debug\GitTest02.exe
+C:\GITTRAINING\amarakalaRepository\GitTest02\GitTest02\obj\Debug\GitTest02.pdb
